@@ -23,9 +23,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/prakharnigambengaluru/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prakharnigambengaluru/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/8704849/prakhar-nigam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/8704849/prakhar-nigam" height="30" width="40" /></a>
-<a href="https://medium.com/https://medium.com/@mrprakharnigam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@mrprakharnigam" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prakharnigambengaluru/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prakharnigambengaluru/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/8704849/prakhar-nigam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/8704849/prakhar-nigam" height="30" width="40" /></a>
+<a href="https://medium.com/@mrprakharnigam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@mrprakharnigam" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/prakharkohq/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/prakharkohq/" height="30" width="40" /></a>
 </p>
 
