@@ -6,9 +6,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prakharkohq" alt="prakharkohq" /></a> </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dadoonet&theme=radical&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prakharkohq&theme=radical&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dadoonet&include_all_commits=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=prakharkohq&include_all_commits=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on [Search Domain](https://www.kooapp.com/)
 
