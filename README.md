@@ -12,8 +12,6 @@
 
 - 🔭 I’m currently working on [Search Domain](https://www.kooapp.com/)
 
-- 🌱 I’m currently learning **Python / Scala**
-
 - 👯 I’m looking to collaborate on **Search and Infromation retrival domain**
 
 - 🤝 I’m looking for help with **Infromation retrival and Search**
